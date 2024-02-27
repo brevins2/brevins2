@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     
     - ⚡ Fun fact **I think I am related to hulk**
   </ul>
-  <img align="right" alt="Coding" width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
 <h3 align="left">Connect with me:</h3>
