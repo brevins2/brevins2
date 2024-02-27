@@ -22,20 +22,18 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brevins2" alt="brevins2" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iambrevin" target="blank"><img src="https://img.shields.io/twitter/follow/iambrevin?logo=twitter&style=for-the-badge" alt="iambrevin" /></a> </p>
-<div style="display: flex; gap: 10px;">
-  <ul>
-    - 🌱 I’m currently learning **django, express js, react native**
+
+- 🌱 I’m currently learning **django, express js, react native**
     
-    - 👨‍💻 All of my projects are available at [https://dev-brevin.pantheonsite.io](https://dev-brevin.pantheonsite.io)
+- 👨‍💻 All of my projects are available at [https://dev-brevin.pantheonsite.io](https://dev-brevin.pantheonsite.io)
     
-    - 💬 Ask me about **react, python, javascript**
+- 💬 Ask me about **react, python, javascript**
     
-    - 📫 How to reach me **kiggundubrevin@gmail.com**
+- 📫 How to reach me **kiggundubrevin@gmail.com**
     
-    - ⚡ Fun fact **I think I am related to hulk**
-  </ul>
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</div>
+- ⚡ Fun fact **I think I am related to hulk**
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
