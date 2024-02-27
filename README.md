@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/iambrevin" target="blank"><img src="https://img.shields.io/twitter/follow/iambrevin?logo=twitter&style=for-the-badge" alt="iambrevin" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 🌱 I’m currently learning **django, express js, react native**
     
 - 👨‍💻 All of my projects are available at [https://dev-brevin.pantheonsite.io](https://dev-brevin.pantheonsite.io)
@@ -32,8 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **kiggundubrevin@gmail.com**
     
 - ⚡ Fun fact **I think I am related to hulk**
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
