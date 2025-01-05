@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **django, express js, react native**
 
-- 👨‍💻 All of my projects are available at [https://dev-brevin.pantheonsite.io](https://dev-brevin.pantheonsite.io)
+- 👨‍💻 All of my projects are available at @iambrevin -> twitter, iambrevin -> instagram,
 
 - 💬 Ask me about **react, python, javascript**
 
