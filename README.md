@@ -9,13 +9,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **vue js**
+- 🌱 I’m currently learning **flutter**
 
 - 💬 Ask me about **react, python, javascript**
 
 - 📫 How to reach me **kiggundubrevin@gmail.com**
 
-- ⚡ Fun fact **I think I am related to hulk**
+- ⚡ Fun fact **I think I am related to Hulk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
