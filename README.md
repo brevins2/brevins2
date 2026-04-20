@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/iambrevin" target="blank"><img src="https://img.shields.io/twitter/follow/iambrevin?logo=twitter&style=for-the-badge" alt="iambrevin" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brevins2&show_icons=true&locale=en&layout=compact" alt="brevins2" /></p>
 
